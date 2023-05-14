@@ -1,0 +1,98 @@
+{
+  "contacts": [
+    {
+      "id": 1,
+      "name": "Alice"
+    },
+    {
+      "id": 2,
+      "name": "Bob"
+    },
+    {
+      "id": 3,
+      "name": "Charlie"
+    },
+    {
+      "id": 4,
+      "name": "Dave"
+    },
+    {
+      "id": 5,
+      "name": "Eve"
+    }
+  ],
+  "conversations": [
+    {
+      "id": 1,
+      "contact": "Alice",
+      "messages": [
+        {
+          "id": 1,
+          "text": "Hey Alice, how's it going?",
+          "timestamp": "2023-05-01T10:00:00Z",
+          "fromMe": true
+        },
+        {
+          "id": 2,
+          "text": "Not bad, thanks. How about you?",
+          "timestamp": "2023-05-01T10:02:00Z",
+          "fromMe": false
+        },
+        {
+          "id": 3,
+          "text": "Can't complain. Want to grab lunch sometime?",
+          "timestamp": "2023-05-01T10:05:00Z",
+          "fromMe": true
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "contact": "Bob",
+      "messages": [
+        {
+          "id": 1,
+          "text": "Hey Bob, what's up?",
+          "timestamp": "2023-05-02T09:30:00Z",
+          "fromMe": true
+        },
+        {
+          "id": 2,
+          "text": "Nothing much, just hanging out at home. How about you?",
+          "timestamp": "2023-05-02T09:32:00Z",
+          "fromMe": false
+        },
+        {
+          "id": 3,
+          "text": "Same here. Want to play some video games later?",
+          "timestamp": "2023-05-02T09:35:00Z",
+          "fromMe": true
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "contact": "Charlie",
+      "messages": [
+        {
+          "id": 1,
+          "text": "Hey Charlie, how's your day going?",
+          "timestamp": "2023-05-03T14:15:00Z",
+          "fromMe": true
+        },
+        {
+          "id": 2,
+          "text": "Pretty good, thanks. How about you?",
+          "timestamp": "2023-05-03T14:17:00Z",
+          "fromMe": false
+        },
+        {
+          "id": 3,
+          "text": "Can't complain. Want to grab drinks after work?",
+          "timestamp": "2023-05-03T14:20:00Z",
+          "fromMe": true
+        }
+      ]
+    }
+  ]
+}
