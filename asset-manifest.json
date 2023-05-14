@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Vinay-Singhh/ReactChatXapp.git/static/css/main.f6ed39b7.css",
-    "main.js": "/Vinay-Singhh/ReactChatXapp.git/static/js/main.40d27eda.js",
+    "main.js": "/Vinay-Singhh/ReactChatXapp.git/static/js/main.79190ea1.js",
     "index.html": "/Vinay-Singhh/ReactChatXapp.git/index.html",
     "main.f6ed39b7.css.map": "/Vinay-Singhh/ReactChatXapp.git/static/css/main.f6ed39b7.css.map",
-    "main.40d27eda.js.map": "/Vinay-Singhh/ReactChatXapp.git/static/js/main.40d27eda.js.map"
+    "main.79190ea1.js.map": "/Vinay-Singhh/ReactChatXapp.git/static/js/main.79190ea1.js.map"
   },
   "entrypoints": [
     "static/css/main.f6ed39b7.css",
-    "static/js/main.40d27eda.js"
+    "static/js/main.79190ea1.js"
   ]
 }
