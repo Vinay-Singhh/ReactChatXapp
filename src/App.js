@@ -9,7 +9,7 @@ import 'react-toastify/dist/ReactToastify.css';
 
 function App() {
   return (
-    <Router basename='/ReactChatXapp'>
+    <Router>
       <div className="App">
         <ConversationList
           conversations={dummyData.conversations}
